@@ -1,0 +1,4004 @@
+{
+  "data": [
+    {
+      "name": "Sat Oct 04 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/10/4", 353]
+    },
+    {
+      "name": "Sun Oct 05 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/10/5", 348]
+    },
+    {
+      "name": "Mon Oct 06 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/10/6", 355]
+    },
+    {
+      "name": "Tue Oct 07 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/10/7", 358]
+    },
+    {
+      "name": "Wed Oct 08 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/10/8", 359]
+    },
+    {
+      "name": "Thu Oct 09 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/10/9", 354]
+    },
+    {
+      "name": "Fri Oct 10 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/10/10", 349]
+    },
+    {
+      "name": "Sat Oct 11 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/10/11", 354]
+    },
+    {
+      "name": "Sun Oct 12 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/10/12", 356]
+    },
+    {
+      "name": "Mon Oct 13 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/10/13", 358]
+    },
+    {
+      "name": "Tue Oct 14 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/10/14", 364]
+    },
+    {
+      "name": "Wed Oct 15 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/10/15", 367]
+    },
+    {
+      "name": "Thu Oct 16 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/10/16", 362]
+    },
+    {
+      "name": "Fri Oct 17 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/10/17", 360]
+    },
+    {
+      "name": "Sat Oct 18 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/10/18", 356]
+    },
+    {
+      "name": "Sun Oct 19 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/10/19", 366]
+    },
+    {
+      "name": "Mon Oct 20 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/10/20", 364]
+    },
+    {
+      "name": "Tue Oct 21 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/10/21", 369]
+    },
+    {
+      "name": "Wed Oct 22 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/10/22", 366]
+    },
+    {
+      "name": "Thu Oct 23 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/10/23", 367]
+    },
+    {
+      "name": "Fri Oct 24 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/10/24", 358]
+    },
+    {
+      "name": "Sat Oct 25 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/10/25", 351]
+    },
+    {
+      "name": "Sun Oct 26 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/10/26", 344]
+    },
+    {
+      "name": "Mon Oct 27 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/10/27", 341]
+    },
+    {
+      "name": "Tue Oct 28 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/10/28", 337]
+    },
+    {
+      "name": "Wed Oct 29 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/10/29", 337]
+    },
+    {
+      "name": "Thu Oct 30 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/10/30", 327]
+    },
+    {
+      "name": "Fri Oct 31 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/10/31", 335]
+    },
+    {
+      "name": "Sat Nov 01 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/11/1", 344]
+    },
+    {
+      "name": "Sun Nov 02 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/11/2", 339]
+    },
+    {
+      "name": "Mon Nov 03 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/11/3", 342]
+    },
+    {
+      "name": "Tue Nov 04 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/11/4", 343]
+    },
+    {
+      "name": "Wed Nov 05 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/11/5", 336]
+    },
+    {
+      "name": "Thu Nov 06 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/11/6", 341]
+    },
+    {
+      "name": "Fri Nov 07 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/11/7", 340]
+    },
+    {
+      "name": "Sat Nov 08 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/11/8", 336]
+    },
+    {
+      "name": "Sun Nov 09 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/11/9", 346]
+    },
+    {
+      "name": "Mon Nov 10 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/11/10", 356]
+    },
+    {
+      "name": "Tue Nov 11 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/11/11", 352]
+    },
+    {
+      "name": "Wed Nov 12 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/11/12", 347]
+    },
+    {
+      "name": "Thu Nov 13 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/11/13", 350]
+    },
+    {
+      "name": "Fri Nov 14 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/11/14", 343]
+    },
+    {
+      "name": "Sat Nov 15 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/11/15", 353]
+    },
+    {
+      "name": "Sun Nov 16 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/11/16", 348]
+    },
+    {
+      "name": "Mon Nov 17 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/11/17", 338]
+    },
+    {
+      "name": "Tue Nov 18 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/11/18", 347]
+    },
+    {
+      "name": "Wed Nov 19 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/11/19", 358]
+    },
+    {
+      "name": "Thu Nov 20 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/11/20", 359]
+    },
+    {
+      "name": "Fri Nov 21 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/11/21", 350]
+    },
+    {
+      "name": "Sat Nov 22 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/11/22", 342]
+    },
+    {
+      "name": "Sun Nov 23 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/11/23", 333]
+    },
+    {
+      "name": "Mon Nov 24 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/11/24", 342]
+    },
+    {
+      "name": "Tue Nov 25 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/11/25", 348]
+    },
+    {
+      "name": "Wed Nov 26 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/11/26", 344]
+    },
+    {
+      "name": "Thu Nov 27 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/11/27", 354]
+    },
+    {
+      "name": "Fri Nov 28 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/11/28", 354]
+    },
+    {
+      "name": "Sat Nov 29 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/11/29", 363]
+    },
+    {
+      "name": "Sun Nov 30 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/11/30", 372]
+    },
+    {
+      "name": "Mon Dec 01 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/12/1", 376]
+    },
+    {
+      "name": "Tue Dec 02 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/12/2", 381]
+    },
+    {
+      "name": "Wed Dec 03 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/12/3", 376]
+    },
+    {
+      "name": "Thu Dec 04 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/12/4", 369]
+    },
+    {
+      "name": "Fri Dec 05 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/12/5", 364]
+    },
+    {
+      "name": "Sat Dec 06 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/12/6", 367]
+    },
+    {
+      "name": "Sun Dec 07 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/12/7", 363]
+    },
+    {
+      "name": "Mon Dec 08 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/12/8", 355]
+    },
+    {
+      "name": "Tue Dec 09 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/12/9", 350]
+    },
+    {
+      "name": "Wed Dec 10 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/12/10", 342]
+    },
+    {
+      "name": "Thu Dec 11 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/12/11", 341]
+    },
+    {
+      "name": "Fri Dec 12 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/12/12", 350]
+    },
+    {
+      "name": "Sat Dec 13 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/12/13", 353]
+    },
+    {
+      "name": "Sun Dec 14 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/12/14", 346]
+    },
+    {
+      "name": "Mon Dec 15 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/12/15", 338]
+    },
+    {
+      "name": "Tue Dec 16 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/12/16", 328]
+    },
+    {
+      "name": "Wed Dec 17 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/12/17", 332]
+    },
+    {
+      "name": "Thu Dec 18 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/12/18", 323]
+    },
+    {
+      "name": "Fri Dec 19 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/12/19", 322]
+    },
+    {
+      "name": "Sat Dec 20 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/12/20", 319]
+    },
+    {
+      "name": "Sun Dec 21 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/12/21", 325]
+    },
+    {
+      "name": "Mon Dec 22 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/12/22", 319]
+    },
+    {
+      "name": "Tue Dec 23 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/12/23", 312]
+    },
+    {
+      "name": "Wed Dec 24 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/12/24", 303]
+    },
+    {
+      "name": "Thu Dec 25 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/12/25", 293]
+    },
+    {
+      "name": "Fri Dec 26 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/12/26", 293]
+    },
+    {
+      "name": "Sat Dec 27 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/12/27", 297]
+    },
+    {
+      "name": "Sun Dec 28 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/12/28", 290]
+    },
+    {
+      "name": "Mon Dec 29 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/12/29", 283]
+    },
+    {
+      "name": "Tue Dec 30 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/12/30", 277]
+    },
+    {
+      "name": "Wed Dec 31 1997 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1997/12/31", 283]
+    },
+    {
+      "name": "Thu Jan 01 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/1/1", 276]
+    },
+    {
+      "name": "Fri Jan 02 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/1/2", 271]
+    },
+    {
+      "name": "Sat Jan 03 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/1/3", 265]
+    },
+    {
+      "name": "Sun Jan 04 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/1/4", 260]
+    },
+    {
+      "name": "Mon Jan 05 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/1/5", 250]
+    },
+    {
+      "name": "Tue Jan 06 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/1/6", 257]
+    },
+    {
+      "name": "Wed Jan 07 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/1/7", 261]
+    },
+    {
+      "name": "Thu Jan 08 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/1/8", 272]
+    },
+    {
+      "name": "Fri Jan 09 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/1/9", 276]
+    },
+    {
+      "name": "Sat Jan 10 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/1/10", 279]
+    },
+    {
+      "name": "Sun Jan 11 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/1/11", 273]
+    },
+    {
+      "name": "Mon Jan 12 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/1/12", 267]
+    },
+    {
+      "name": "Tue Jan 13 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/1/13", 272]
+    },
+    {
+      "name": "Wed Jan 14 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/1/14", 281]
+    },
+    {
+      "name": "Thu Jan 15 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/1/15", 278]
+    },
+    {
+      "name": "Fri Jan 16 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/1/16", 284]
+    },
+    {
+      "name": "Sat Jan 17 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/1/17", 295]
+    },
+    {
+      "name": "Sun Jan 18 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/1/18", 297]
+    },
+    {
+      "name": "Mon Jan 19 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/1/19", 295]
+    },
+    {
+      "name": "Tue Jan 20 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/1/20", 304]
+    },
+    {
+      "name": "Wed Jan 21 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/1/21", 295]
+    },
+    {
+      "name": "Thu Jan 22 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/1/22", 288]
+    },
+    {
+      "name": "Fri Jan 23 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/1/23", 291]
+    },
+    {
+      "name": "Sat Jan 24 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/1/24", 300]
+    },
+    {
+      "name": "Sun Jan 25 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/1/25", 293]
+    },
+    {
+      "name": "Mon Jan 26 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/1/26", 290]
+    },
+    {
+      "name": "Tue Jan 27 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/1/27", 294]
+    },
+    {
+      "name": "Wed Jan 28 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/1/28", 295]
+    },
+    {
+      "name": "Thu Jan 29 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/1/29", 288]
+    },
+    {
+      "name": "Fri Jan 30 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/1/30", 291]
+    },
+    {
+      "name": "Sat Jan 31 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/1/31", 290]
+    },
+    {
+      "name": "Sun Feb 01 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/2/1", 297]
+    },
+    {
+      "name": "Mon Feb 02 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/2/2", 290]
+    },
+    {
+      "name": "Tue Feb 03 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/2/3", 295]
+    },
+    {
+      "name": "Wed Feb 04 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/2/4", 305]
+    },
+    {
+      "name": "Thu Feb 05 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/2/5", 311]
+    },
+    {
+      "name": "Fri Feb 06 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/2/6", 321]
+    },
+    {
+      "name": "Sat Feb 07 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/2/7", 317]
+    },
+    {
+      "name": "Sun Feb 08 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/2/8", 315]
+    },
+    {
+      "name": "Mon Feb 09 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/2/9", 321]
+    },
+    {
+      "name": "Tue Feb 10 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/2/10", 320]
+    },
+    {
+      "name": "Wed Feb 11 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/2/11", 321]
+    },
+    {
+      "name": "Thu Feb 12 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/2/12", 316]
+    },
+    {
+      "name": "Fri Feb 13 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/2/13", 315]
+    },
+    {
+      "name": "Sat Feb 14 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/2/14", 314]
+    },
+    {
+      "name": "Sun Feb 15 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/2/15", 319]
+    },
+    {
+      "name": "Mon Feb 16 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/2/16", 317]
+    },
+    {
+      "name": "Tue Feb 17 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/2/17", 308]
+    },
+    {
+      "name": "Wed Feb 18 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/2/18", 312]
+    },
+    {
+      "name": "Thu Feb 19 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/2/19", 312]
+    },
+    {
+      "name": "Fri Feb 20 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/2/20", 307]
+    },
+    {
+      "name": "Sat Feb 21 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/2/21", 298]
+    },
+    {
+      "name": "Sun Feb 22 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/2/22", 297]
+    },
+    {
+      "name": "Mon Feb 23 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/2/23", 289]
+    },
+    {
+      "name": "Tue Feb 24 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/2/24", 288]
+    },
+    {
+      "name": "Wed Feb 25 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/2/25", 287]
+    },
+    {
+      "name": "Thu Feb 26 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/2/26", 282]
+    },
+    {
+      "name": "Fri Feb 27 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/2/27", 278]
+    },
+    {
+      "name": "Sat Feb 28 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/2/28", 282]
+    },
+    {
+      "name": "Sun Mar 01 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/3/1", 274]
+    },
+    {
+      "name": "Mon Mar 02 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/3/2", 282]
+    },
+    {
+      "name": "Tue Mar 03 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/3/3", 275]
+    },
+    {
+      "name": "Wed Mar 04 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/3/4", 273]
+    },
+    {
+      "name": "Thu Mar 05 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/3/5", 280]
+    },
+    {
+      "name": "Fri Mar 06 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/3/6", 278]
+    },
+    {
+      "name": "Sat Mar 07 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/3/7", 273]
+    },
+    {
+      "name": "Sun Mar 08 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/3/8", 266]
+    },
+    {
+      "name": "Mon Mar 09 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/3/9", 273]
+    },
+    {
+      "name": "Tue Mar 10 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/3/10", 263]
+    },
+    {
+      "name": "Wed Mar 11 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/3/11", 259]
+    },
+    {
+      "name": "Thu Mar 12 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/3/12", 255]
+    },
+    {
+      "name": "Fri Mar 13 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/3/13", 260]
+    },
+    {
+      "name": "Sat Mar 14 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/3/14", 271]
+    },
+    {
+      "name": "Sun Mar 15 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/3/15", 281]
+    },
+    {
+      "name": "Mon Mar 16 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/3/16", 284]
+    },
+    {
+      "name": "Tue Mar 17 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/3/17", 284]
+    },
+    {
+      "name": "Wed Mar 18 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/3/18", 294]
+    },
+    {
+      "name": "Thu Mar 19 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/3/19", 304]
+    },
+    {
+      "name": "Fri Mar 20 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/3/20", 296]
+    },
+    {
+      "name": "Sat Mar 21 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/3/21", 290]
+    },
+    {
+      "name": "Sun Mar 22 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/3/22", 298]
+    },
+    {
+      "name": "Mon Mar 23 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/3/23", 303]
+    },
+    {
+      "name": "Tue Mar 24 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/3/24", 310]
+    },
+    {
+      "name": "Wed Mar 25 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/3/25", 318]
+    },
+    {
+      "name": "Thu Mar 26 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/3/26", 328]
+    },
+    {
+      "name": "Fri Mar 27 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/3/27", 325]
+    },
+    {
+      "name": "Sat Mar 28 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/3/28", 324]
+    },
+    {
+      "name": "Sun Mar 29 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/3/29", 321]
+    },
+    {
+      "name": "Mon Mar 30 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/3/30", 313]
+    },
+    {
+      "name": "Tue Mar 31 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/3/31", 310]
+    },
+    {
+      "name": "Wed Apr 01 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/4/1", 313]
+    },
+    {
+      "name": "Thu Apr 02 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/4/2", 311]
+    },
+    {
+      "name": "Fri Apr 03 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/4/3", 321]
+    },
+    {
+      "name": "Sat Apr 04 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/4/4", 331]
+    },
+    {
+      "name": "Sun Apr 05 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/4/5", 337]
+    },
+    {
+      "name": "Mon Apr 06 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/4/6", 342]
+    },
+    {
+      "name": "Tue Apr 07 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/4/7", 334]
+    },
+    {
+      "name": "Wed Apr 08 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/4/8", 342]
+    },
+    {
+      "name": "Thu Apr 09 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/4/9", 339]
+    },
+    {
+      "name": "Fri Apr 10 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/4/10", 332]
+    },
+    {
+      "name": "Sat Apr 11 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/4/11", 328]
+    },
+    {
+      "name": "Sun Apr 12 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/4/12", 325]
+    },
+    {
+      "name": "Mon Apr 13 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/4/13", 321]
+    },
+    {
+      "name": "Tue Apr 14 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/4/14", 320]
+    },
+    {
+      "name": "Wed Apr 15 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/4/15", 326]
+    },
+    {
+      "name": "Thu Apr 16 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/4/16", 322]
+    },
+    {
+      "name": "Fri Apr 17 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/4/17", 332]
+    },
+    {
+      "name": "Sat Apr 18 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/4/18", 339]
+    },
+    {
+      "name": "Sun Apr 19 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/4/19", 336]
+    },
+    {
+      "name": "Mon Apr 20 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/4/20", 329]
+    },
+    {
+      "name": "Tue Apr 21 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/4/21", 333]
+    },
+    {
+      "name": "Wed Apr 22 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/4/22", 324]
+    },
+    {
+      "name": "Thu Apr 23 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/4/23", 333]
+    },
+    {
+      "name": "Fri Apr 24 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/4/24", 340]
+    },
+    {
+      "name": "Sat Apr 25 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/4/25", 347]
+    },
+    {
+      "name": "Sun Apr 26 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/4/26", 354]
+    },
+    {
+      "name": "Mon Apr 27 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/4/27", 347]
+    },
+    {
+      "name": "Tue Apr 28 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/4/28", 350]
+    },
+    {
+      "name": "Wed Apr 29 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/4/29", 358]
+    },
+    {
+      "name": "Thu Apr 30 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/4/30", 360]
+    },
+    {
+      "name": "Fri May 01 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/5/1", 370]
+    },
+    {
+      "name": "Sat May 02 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/5/2", 366]
+    },
+    {
+      "name": "Sun May 03 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/5/3", 364]
+    },
+    {
+      "name": "Mon May 04 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/5/4", 361]
+    },
+    {
+      "name": "Tue May 05 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/5/5", 366]
+    },
+    {
+      "name": "Wed May 06 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/5/6", 369]
+    },
+    {
+      "name": "Thu May 07 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/5/7", 373]
+    },
+    {
+      "name": "Fri May 08 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/5/8", 380]
+    },
+    {
+      "name": "Sat May 09 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/5/9", 377]
+    },
+    {
+      "name": "Sun May 10 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/5/10", 377]
+    },
+    {
+      "name": "Mon May 11 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/5/11", 385]
+    },
+    {
+      "name": "Tue May 12 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/5/12", 375]
+    },
+    {
+      "name": "Wed May 13 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/5/13", 373]
+    },
+    {
+      "name": "Thu May 14 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/5/14", 368]
+    },
+    {
+      "name": "Fri May 15 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/5/15", 372]
+    },
+    {
+      "name": "Sat May 16 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/5/16", 362]
+    },
+    {
+      "name": "Sun May 17 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/5/17", 361]
+    },
+    {
+      "name": "Mon May 18 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/5/18", 360]
+    },
+    {
+      "name": "Tue May 19 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/5/19", 352]
+    },
+    {
+      "name": "Wed May 20 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/5/20", 358]
+    },
+    {
+      "name": "Thu May 21 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/5/21", 363]
+    },
+    {
+      "name": "Fri May 22 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/5/22", 355]
+    },
+    {
+      "name": "Sat May 23 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/5/23", 353]
+    },
+    {
+      "name": "Sun May 24 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/5/24", 359]
+    },
+    {
+      "name": "Mon May 25 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/5/25", 358]
+    },
+    {
+      "name": "Tue May 26 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/5/26", 362]
+    },
+    {
+      "name": "Wed May 27 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/5/27", 365]
+    },
+    {
+      "name": "Thu May 28 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/5/28", 355]
+    },
+    {
+      "name": "Fri May 29 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/5/29", 364]
+    },
+    {
+      "name": "Sat May 30 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/5/30", 356]
+    },
+    {
+      "name": "Sun May 31 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/5/31", 350]
+    },
+    {
+      "name": "Mon Jun 01 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/6/1", 354]
+    },
+    {
+      "name": "Tue Jun 02 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/6/2", 345]
+    },
+    {
+      "name": "Wed Jun 03 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/6/3", 344]
+    },
+    {
+      "name": "Thu Jun 04 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/6/4", 349]
+    },
+    {
+      "name": "Fri Jun 05 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/6/5", 347]
+    },
+    {
+      "name": "Sat Jun 06 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/6/6", 346]
+    },
+    {
+      "name": "Sun Jun 07 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/6/7", 351]
+    },
+    {
+      "name": "Mon Jun 08 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/6/8", 346]
+    },
+    {
+      "name": "Tue Jun 09 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/6/9", 353]
+    },
+    {
+      "name": "Wed Jun 10 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/6/10", 355]
+    },
+    {
+      "name": "Thu Jun 11 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/6/11", 362]
+    },
+    {
+      "name": "Fri Jun 12 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/6/12", 373]
+    },
+    {
+      "name": "Sat Jun 13 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/6/13", 381]
+    },
+    {
+      "name": "Sun Jun 14 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/6/14", 386]
+    },
+    {
+      "name": "Mon Jun 15 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/6/15", 396]
+    },
+    {
+      "name": "Tue Jun 16 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/6/16", 392]
+    },
+    {
+      "name": "Wed Jun 17 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/6/17", 385]
+    },
+    {
+      "name": "Thu Jun 18 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/6/18", 378]
+    },
+    {
+      "name": "Fri Jun 19 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/6/19", 372]
+    },
+    {
+      "name": "Sat Jun 20 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/6/20", 377]
+    },
+    {
+      "name": "Sun Jun 21 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/6/21", 379]
+    },
+    {
+      "name": "Mon Jun 22 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/6/22", 382]
+    },
+    {
+      "name": "Tue Jun 23 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/6/23", 375]
+    },
+    {
+      "name": "Wed Jun 24 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/6/24", 367]
+    },
+    {
+      "name": "Thu Jun 25 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/6/25", 362]
+    },
+    {
+      "name": "Fri Jun 26 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/6/26", 358]
+    },
+    {
+      "name": "Sat Jun 27 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/6/27", 357]
+    },
+    {
+      "name": "Sun Jun 28 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/6/28", 356]
+    },
+    {
+      "name": "Mon Jun 29 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/6/29", 348]
+    },
+    {
+      "name": "Tue Jun 30 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/6/30", 343]
+    },
+    {
+      "name": "Wed Jul 01 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/7/1", 351]
+    },
+    {
+      "name": "Thu Jul 02 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/7/2", 342]
+    },
+    {
+      "name": "Fri Jul 03 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/7/3", 350]
+    },
+    {
+      "name": "Sat Jul 04 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/7/4", 342]
+    },
+    {
+      "name": "Sun Jul 05 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/7/5", 339]
+    },
+    {
+      "name": "Mon Jul 06 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/7/6", 347]
+    },
+    {
+      "name": "Tue Jul 07 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/7/7", 341]
+    },
+    {
+      "name": "Wed Jul 08 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/7/8", 346]
+    },
+    {
+      "name": "Thu Jul 09 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/7/9", 348]
+    },
+    {
+      "name": "Fri Jul 10 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/7/10", 351]
+    },
+    {
+      "name": "Sat Jul 11 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/7/11", 352]
+    },
+    {
+      "name": "Sun Jul 12 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/7/12", 346]
+    },
+    {
+      "name": "Mon Jul 13 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/7/13", 338]
+    },
+    {
+      "name": "Tue Jul 14 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/7/14", 339]
+    },
+    {
+      "name": "Wed Jul 15 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/7/15", 336]
+    },
+    {
+      "name": "Thu Jul 16 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/7/16", 344]
+    },
+    {
+      "name": "Fri Jul 17 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/7/17", 350]
+    },
+    {
+      "name": "Sat Jul 18 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/7/18", 355]
+    },
+    {
+      "name": "Sun Jul 19 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/7/19", 349]
+    },
+    {
+      "name": "Mon Jul 20 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/7/20", 360]
+    },
+    {
+      "name": "Tue Jul 21 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/7/21", 369]
+    },
+    {
+      "name": "Wed Jul 22 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/7/22", 373]
+    },
+    {
+      "name": "Thu Jul 23 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/7/23", 366]
+    },
+    {
+      "name": "Fri Jul 24 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/7/24", 367]
+    },
+    {
+      "name": "Sat Jul 25 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/7/25", 359]
+    },
+    {
+      "name": "Sun Jul 26 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/7/26", 369]
+    },
+    {
+      "name": "Mon Jul 27 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/7/27", 360]
+    },
+    {
+      "name": "Tue Jul 28 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/7/28", 363]
+    },
+    {
+      "name": "Wed Jul 29 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/7/29", 355]
+    },
+    {
+      "name": "Thu Jul 30 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/7/30", 355]
+    },
+    {
+      "name": "Fri Jul 31 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/7/31", 354]
+    },
+    {
+      "name": "Sat Aug 01 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/8/1", 356]
+    },
+    {
+      "name": "Sun Aug 02 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/8/2", 361]
+    },
+    {
+      "name": "Mon Aug 03 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/8/3", 366]
+    },
+    {
+      "name": "Tue Aug 04 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/8/4", 369]
+    },
+    {
+      "name": "Wed Aug 05 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/8/5", 377]
+    },
+    {
+      "name": "Thu Aug 06 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/8/6", 384]
+    },
+    {
+      "name": "Fri Aug 07 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/8/7", 390]
+    },
+    {
+      "name": "Sat Aug 08 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/8/8", 390]
+    },
+    {
+      "name": "Sun Aug 09 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/8/9", 391]
+    },
+    {
+      "name": "Mon Aug 10 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/8/10", 387]
+    },
+    {
+      "name": "Tue Aug 11 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/8/11", 390]
+    },
+    {
+      "name": "Wed Aug 12 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/8/12", 386]
+    },
+    {
+      "name": "Thu Aug 13 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/8/13", 389]
+    },
+    {
+      "name": "Fri Aug 14 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/8/14", 392]
+    },
+    {
+      "name": "Sat Aug 15 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/8/15", 385]
+    },
+    {
+      "name": "Sun Aug 16 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/8/16", 384]
+    },
+    {
+      "name": "Mon Aug 17 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/8/17", 389]
+    },
+    {
+      "name": "Tue Aug 18 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/8/18", 380]
+    },
+    {
+      "name": "Wed Aug 19 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/8/19", 378]
+    },
+    {
+      "name": "Thu Aug 20 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/8/20", 377]
+    },
+    {
+      "name": "Fri Aug 21 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/8/21", 381]
+    },
+    {
+      "name": "Sat Aug 22 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/8/22", 388]
+    },
+    {
+      "name": "Sun Aug 23 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/8/23", 381]
+    },
+    {
+      "name": "Mon Aug 24 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/8/24", 373]
+    },
+    {
+      "name": "Tue Aug 25 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/8/25", 380]
+    },
+    {
+      "name": "Wed Aug 26 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/8/26", 391]
+    },
+    {
+      "name": "Thu Aug 27 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/8/27", 381]
+    },
+    {
+      "name": "Fri Aug 28 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/8/28", 388]
+    },
+    {
+      "name": "Sat Aug 29 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/8/29", 383]
+    },
+    {
+      "name": "Sun Aug 30 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/8/30", 386]
+    },
+    {
+      "name": "Mon Aug 31 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/8/31", 385]
+    },
+    {
+      "name": "Tue Sep 01 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/9/1", 379]
+    },
+    {
+      "name": "Wed Sep 02 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/9/2", 378]
+    },
+    {
+      "name": "Thu Sep 03 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/9/3", 385]
+    },
+    {
+      "name": "Fri Sep 04 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/9/4", 382]
+    },
+    {
+      "name": "Sat Sep 05 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/9/5", 377]
+    },
+    {
+      "name": "Sun Sep 06 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/9/6", 382]
+    },
+    {
+      "name": "Mon Sep 07 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/9/7", 384]
+    },
+    {
+      "name": "Tue Sep 08 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/9/8", 392]
+    },
+    {
+      "name": "Wed Sep 09 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/9/9", 393]
+    },
+    {
+      "name": "Thu Sep 10 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/9/10", 390]
+    },
+    {
+      "name": "Fri Sep 11 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/9/11", 384]
+    },
+    {
+      "name": "Sat Sep 12 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/9/12", 395]
+    },
+    {
+      "name": "Sun Sep 13 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/9/13", 402]
+    },
+    {
+      "name": "Mon Sep 14 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/9/14", 410]
+    },
+    {
+      "name": "Tue Sep 15 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/9/15", 417]
+    },
+    {
+      "name": "Wed Sep 16 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/9/16", 417]
+    },
+    {
+      "name": "Thu Sep 17 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/9/17", 428]
+    },
+    {
+      "name": "Fri Sep 18 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/9/18", 436]
+    },
+    {
+      "name": "Sat Sep 19 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/9/19", 443]
+    },
+    {
+      "name": "Sun Sep 20 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/9/20", 446]
+    },
+    {
+      "name": "Mon Sep 21 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/9/21", 436]
+    },
+    {
+      "name": "Tue Sep 22 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/9/22", 438]
+    },
+    {
+      "name": "Wed Sep 23 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/9/23", 435]
+    },
+    {
+      "name": "Thu Sep 24 1998 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1998/9/24", 432]
+    },
+    {
+      "name": "Fri Sep 25 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/9/25", 437]
+    },
+    {
+      "name": "Sat Sep 26 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/9/26", 443]
+    },
+    {
+      "name": "Sun Sep 27 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/9/27", 452]
+    },
+    {
+      "name": "Mon Sep 28 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/9/28", 462]
+    },
+    {
+      "name": "Tue Sep 29 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/9/29", 461]
+    },
+    {
+      "name": "Wed Sep 30 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/9/30", 455]
+    },
+    {
+      "name": "Thu Oct 01 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/10/1", 453]
+    },
+    {
+      "name": "Fri Oct 02 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/10/2", 453]
+    },
+    {
+      "name": "Sat Oct 03 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/10/3", 463]
+    },
+    {
+      "name": "Sun Oct 04 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/10/4", 467]
+    },
+    {
+      "name": "Mon Oct 05 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/10/5", 472]
+    },
+    {
+      "name": "Tue Oct 06 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/10/6", 471]
+    },
+    {
+      "name": "Wed Oct 07 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/10/7", 472]
+    },
+    {
+      "name": "Thu Oct 08 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/10/8", 475]
+    },
+    {
+      "name": "Fri Oct 09 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/10/9", 482]
+    },
+    {
+      "name": "Sat Oct 10 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/10/10", 493]
+    },
+    {
+      "name": "Sun Oct 11 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/10/11", 487]
+    },
+    {
+      "name": "Mon Oct 12 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/10/12", 482]
+    },
+    {
+      "name": "Tue Oct 13 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/10/13", 477]
+    },
+    {
+      "name": "Wed Oct 14 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/10/14", 472]
+    },
+    {
+      "name": "Thu Oct 15 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/10/15", 476]
+    },
+    {
+      "name": "Fri Oct 16 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/10/16", 467]
+    },
+    {
+      "name": "Sat Oct 17 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/10/17", 462]
+    },
+    {
+      "name": "Sun Oct 18 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/10/18", 460]
+    },
+    {
+      "name": "Mon Oct 19 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/10/19", 450]
+    },
+    {
+      "name": "Tue Oct 20 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/10/20", 455]
+    },
+    {
+      "name": "Wed Oct 21 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/10/21", 455]
+    },
+    {
+      "name": "Thu Oct 22 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/10/22", 455]
+    },
+    {
+      "name": "Fri Oct 23 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/10/23", 456]
+    },
+    {
+      "name": "Sat Oct 24 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/10/24", 461]
+    },
+    {
+      "name": "Sun Oct 25 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/10/25", 469]
+    },
+    {
+      "name": "Mon Oct 26 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/10/26", 469]
+    },
+    {
+      "name": "Tue Oct 27 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/10/27", 473]
+    },
+    {
+      "name": "Wed Oct 28 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/10/28", 481]
+    },
+    {
+      "name": "Thu Oct 29 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/10/29", 472]
+    },
+    {
+      "name": "Fri Oct 30 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/10/30", 465]
+    },
+    {
+      "name": "Sat Oct 31 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/10/31", 469]
+    },
+    {
+      "name": "Sun Nov 01 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/11/1", 461]
+    },
+    {
+      "name": "Mon Nov 02 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/11/2", 460]
+    },
+    {
+      "name": "Tue Nov 03 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/11/3", 459]
+    },
+    {
+      "name": "Wed Nov 04 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/11/4", 460]
+    },
+    {
+      "name": "Thu Nov 05 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/11/5", 468]
+    },
+    {
+      "name": "Fri Nov 06 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/11/6", 467]
+    },
+    {
+      "name": "Sat Nov 07 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/11/7", 473]
+    },
+    {
+      "name": "Sun Nov 08 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/11/8", 482]
+    },
+    {
+      "name": "Mon Nov 09 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/11/9", 491]
+    },
+    {
+      "name": "Tue Nov 10 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/11/10", 485]
+    },
+    {
+      "name": "Wed Nov 11 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/11/11", 481]
+    },
+    {
+      "name": "Thu Nov 12 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/11/12", 480]
+    },
+    {
+      "name": "Fri Nov 13 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/11/13", 482]
+    },
+    {
+      "name": "Sat Nov 14 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/11/14", 484]
+    },
+    {
+      "name": "Sun Nov 15 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/11/15", 488]
+    },
+    {
+      "name": "Mon Nov 16 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/11/16", 493]
+    },
+    {
+      "name": "Tue Nov 17 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/11/17", 488]
+    },
+    {
+      "name": "Wed Nov 18 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/11/18", 487]
+    },
+    {
+      "name": "Thu Nov 19 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/11/19", 482]
+    },
+    {
+      "name": "Fri Nov 20 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/11/20", 483]
+    },
+    {
+      "name": "Sat Nov 21 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/11/21", 486]
+    },
+    {
+      "name": "Sun Nov 22 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/11/22", 484]
+    },
+    {
+      "name": "Mon Nov 23 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/11/23", 482]
+    },
+    {
+      "name": "Tue Nov 24 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/11/24", 478]
+    },
+    {
+      "name": "Wed Nov 25 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/11/25", 486]
+    },
+    {
+      "name": "Thu Nov 26 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/11/26", 479]
+    },
+    {
+      "name": "Fri Nov 27 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/11/27", 476]
+    },
+    {
+      "name": "Sat Nov 28 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/11/28", 476]
+    },
+    {
+      "name": "Sun Nov 29 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/11/29", 478]
+    },
+    {
+      "name": "Mon Nov 30 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/11/30", 472]
+    },
+    {
+      "name": "Tue Dec 01 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/12/1", 467]
+    },
+    {
+      "name": "Wed Dec 02 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/12/2", 460]
+    },
+    {
+      "name": "Thu Dec 03 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/12/3", 465]
+    },
+    {
+      "name": "Fri Dec 04 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/12/4", 458]
+    },
+    {
+      "name": "Sat Dec 05 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/12/5", 467]
+    },
+    {
+      "name": "Sun Dec 06 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/12/6", 463]
+    },
+    {
+      "name": "Mon Dec 07 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/12/7", 463]
+    },
+    {
+      "name": "Tue Dec 08 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/12/8", 465]
+    },
+    {
+      "name": "Wed Dec 09 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/12/9", 463]
+    },
+    {
+      "name": "Thu Dec 10 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/12/10", 473]
+    },
+    {
+      "name": "Fri Dec 11 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/12/11", 469]
+    },
+    {
+      "name": "Sat Dec 12 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/12/12", 468]
+    },
+    {
+      "name": "Sun Dec 13 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/12/13", 463]
+    },
+    {
+      "name": "Mon Dec 14 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/12/14", 456]
+    },
+    {
+      "name": "Tue Dec 15 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/12/15", 457]
+    },
+    {
+      "name": "Wed Dec 16 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/12/16", 451]
+    },
+    {
+      "name": "Thu Dec 17 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/12/17", 460]
+    },
+    {
+      "name": "Fri Dec 18 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/12/18", 462]
+    },
+    {
+      "name": "Sat Dec 19 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/12/19", 456]
+    },
+    {
+      "name": "Sun Dec 20 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/12/20", 452]
+    },
+    {
+      "name": "Mon Dec 21 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/12/21", 450]
+    },
+    {
+      "name": "Tue Dec 22 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/12/22", 450]
+    },
+    {
+      "name": "Wed Dec 23 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/12/23", 447]
+    },
+    {
+      "name": "Thu Dec 24 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/12/24", 445]
+    },
+    {
+      "name": "Fri Dec 25 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/12/25", 445]
+    },
+    {
+      "name": "Sat Dec 26 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/12/26", 447]
+    },
+    {
+      "name": "Sun Dec 27 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/12/27", 447]
+    },
+    {
+      "name": "Mon Dec 28 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/12/28", 458]
+    },
+    {
+      "name": "Tue Dec 29 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/12/29", 467]
+    },
+    {
+      "name": "Wed Dec 30 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/12/30", 467]
+    },
+    {
+      "name": "Thu Dec 31 1998 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1998/12/31", 477]
+    },
+    {
+      "name": "Fri Jan 01 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/1/1", 475]
+    },
+    {
+      "name": "Sat Jan 02 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/1/2", 474]
+    },
+    {
+      "name": "Sun Jan 03 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/1/3", 476]
+    },
+    {
+      "name": "Mon Jan 04 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/1/4", 478]
+    },
+    {
+      "name": "Tue Jan 05 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/1/5", 477]
+    },
+    {
+      "name": "Wed Jan 06 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/1/6", 483]
+    },
+    {
+      "name": "Thu Jan 07 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/1/7", 493]
+    },
+    {
+      "name": "Fri Jan 08 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/1/8", 485]
+    },
+    {
+      "name": "Sat Jan 09 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/1/9", 488]
+    },
+    {
+      "name": "Sun Jan 10 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/1/10", 492]
+    },
+    {
+      "name": "Mon Jan 11 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/1/11", 502]
+    },
+    {
+      "name": "Tue Jan 12 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/1/12", 503]
+    },
+    {
+      "name": "Wed Jan 13 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/1/13", 502]
+    },
+    {
+      "name": "Thu Jan 14 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/1/14", 512]
+    },
+    {
+      "name": "Fri Jan 15 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/1/15", 516]
+    },
+    {
+      "name": "Sat Jan 16 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/1/16", 519]
+    },
+    {
+      "name": "Sun Jan 17 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/1/17", 526]
+    },
+    {
+      "name": "Mon Jan 18 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/1/18", 537]
+    },
+    {
+      "name": "Tue Jan 19 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/1/19", 547]
+    },
+    {
+      "name": "Wed Jan 20 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/1/20", 544]
+    },
+    {
+      "name": "Thu Jan 21 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/1/21", 545]
+    },
+    {
+      "name": "Fri Jan 22 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/1/22", 545]
+    },
+    {
+      "name": "Sat Jan 23 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/1/23", 551]
+    },
+    {
+      "name": "Sun Jan 24 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/1/24", 556]
+    },
+    {
+      "name": "Mon Jan 25 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/1/25", 561]
+    },
+    {
+      "name": "Tue Jan 26 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/1/26", 569]
+    },
+    {
+      "name": "Wed Jan 27 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/1/27", 574]
+    },
+    {
+      "name": "Thu Jan 28 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/1/28", 583]
+    },
+    {
+      "name": "Fri Jan 29 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/1/29", 577]
+    },
+    {
+      "name": "Sat Jan 30 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/1/30", 572]
+    },
+    {
+      "name": "Sun Jan 31 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/1/31", 575]
+    },
+    {
+      "name": "Mon Feb 01 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/2/1", 569]
+    },
+    {
+      "name": "Tue Feb 02 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/2/2", 572]
+    },
+    {
+      "name": "Wed Feb 03 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/2/3", 579]
+    },
+    {
+      "name": "Thu Feb 04 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/2/4", 583]
+    },
+    {
+      "name": "Fri Feb 05 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/2/5", 575]
+    },
+    {
+      "name": "Sat Feb 06 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/2/6", 570]
+    },
+    {
+      "name": "Sun Feb 07 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/2/7", 575]
+    },
+    {
+      "name": "Mon Feb 08 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/2/8", 571]
+    },
+    {
+      "name": "Tue Feb 09 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/2/9", 567]
+    },
+    {
+      "name": "Wed Feb 10 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/2/10", 560]
+    },
+    {
+      "name": "Thu Feb 11 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/2/11", 552]
+    },
+    {
+      "name": "Fri Feb 12 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/2/12", 547]
+    },
+    {
+      "name": "Sat Feb 13 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/2/13", 540]
+    },
+    {
+      "name": "Sun Feb 14 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/2/14", 545]
+    },
+    {
+      "name": "Mon Feb 15 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/2/15", 547]
+    },
+    {
+      "name": "Tue Feb 16 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/2/16", 557]
+    },
+    {
+      "name": "Wed Feb 17 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/2/17", 559]
+    },
+    {
+      "name": "Thu Feb 18 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/2/18", 568]
+    },
+    {
+      "name": "Fri Feb 19 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/2/19", 571]
+    },
+    {
+      "name": "Sat Feb 20 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/2/20", 578]
+    },
+    {
+      "name": "Sun Feb 21 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/2/21", 576]
+    },
+    {
+      "name": "Mon Feb 22 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/2/22", 584]
+    },
+    {
+      "name": "Tue Feb 23 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/2/23", 584]
+    },
+    {
+      "name": "Wed Feb 24 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/2/24", 588]
+    },
+    {
+      "name": "Thu Feb 25 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/2/25", 591]
+    },
+    {
+      "name": "Fri Feb 26 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/2/26", 581]
+    },
+    {
+      "name": "Sat Feb 27 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/2/27", 589]
+    },
+    {
+      "name": "Sun Feb 28 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/2/28", 598]
+    },
+    {
+      "name": "Mon Mar 01 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/3/1", 604]
+    },
+    {
+      "name": "Tue Mar 02 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/3/2", 603]
+    },
+    {
+      "name": "Wed Mar 03 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/3/3", 595]
+    },
+    {
+      "name": "Thu Mar 04 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/3/4", 585]
+    },
+    {
+      "name": "Fri Mar 05 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/3/5", 578]
+    },
+    {
+      "name": "Sat Mar 06 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/3/6", 573]
+    },
+    {
+      "name": "Sun Mar 07 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/3/7", 584]
+    },
+    {
+      "name": "Mon Mar 08 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/3/8", 594]
+    },
+    {
+      "name": "Tue Mar 09 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/3/9", 597]
+    },
+    {
+      "name": "Wed Mar 10 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/3/10", 589]
+    },
+    {
+      "name": "Thu Mar 11 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/3/11", 594]
+    },
+    {
+      "name": "Fri Mar 12 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/3/12", 601]
+    },
+    {
+      "name": "Sat Mar 13 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/3/13", 604]
+    },
+    {
+      "name": "Sun Mar 14 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/3/14", 609]
+    },
+    {
+      "name": "Mon Mar 15 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/3/15", 606]
+    },
+    {
+      "name": "Tue Mar 16 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/3/16", 606]
+    },
+    {
+      "name": "Wed Mar 17 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/3/17", 602]
+    },
+    {
+      "name": "Thu Mar 18 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/3/18", 596]
+    },
+    {
+      "name": "Fri Mar 19 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/3/19", 589]
+    },
+    {
+      "name": "Sat Mar 20 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/3/20", 581]
+    },
+    {
+      "name": "Sun Mar 21 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/3/21", 588]
+    },
+    {
+      "name": "Mon Mar 22 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/3/22", 593]
+    },
+    {
+      "name": "Tue Mar 23 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/3/23", 600]
+    },
+    {
+      "name": "Wed Mar 24 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/3/24", 599]
+    },
+    {
+      "name": "Thu Mar 25 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/3/25", 610]
+    },
+    {
+      "name": "Fri Mar 26 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/3/26", 618]
+    },
+    {
+      "name": "Sat Mar 27 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/3/27", 621]
+    },
+    {
+      "name": "Sun Mar 28 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/3/28", 620]
+    },
+    {
+      "name": "Mon Mar 29 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/3/29", 621]
+    },
+    {
+      "name": "Tue Mar 30 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/3/30", 614]
+    },
+    {
+      "name": "Wed Mar 31 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/3/31", 612]
+    },
+    {
+      "name": "Thu Apr 01 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/4/1", 612]
+    },
+    {
+      "name": "Fri Apr 02 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/4/2", 612]
+    },
+    {
+      "name": "Sat Apr 03 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/4/3", 621]
+    },
+    {
+      "name": "Sun Apr 04 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/4/4", 617]
+    },
+    {
+      "name": "Mon Apr 05 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/4/5", 622]
+    },
+    {
+      "name": "Tue Apr 06 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/4/6", 619]
+    },
+    {
+      "name": "Wed Apr 07 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/4/7", 618]
+    },
+    {
+      "name": "Thu Apr 08 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/4/8", 625]
+    },
+    {
+      "name": "Fri Apr 09 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/4/9", 621]
+    },
+    {
+      "name": "Sat Apr 10 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/4/10", 621]
+    },
+    {
+      "name": "Sun Apr 11 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/4/11", 616]
+    },
+    {
+      "name": "Mon Apr 12 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/4/12", 620]
+    },
+    {
+      "name": "Tue Apr 13 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/4/13", 611]
+    },
+    {
+      "name": "Wed Apr 14 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/4/14", 604]
+    },
+    {
+      "name": "Thu Apr 15 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/4/15", 615]
+    },
+    {
+      "name": "Fri Apr 16 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/4/16", 616]
+    },
+    {
+      "name": "Sat Apr 17 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/4/17", 613]
+    },
+    {
+      "name": "Sun Apr 18 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/4/18", 605]
+    },
+    {
+      "name": "Mon Apr 19 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/4/19", 605]
+    },
+    {
+      "name": "Tue Apr 20 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/4/20", 605]
+    },
+    {
+      "name": "Wed Apr 21 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/4/21", 598]
+    },
+    {
+      "name": "Thu Apr 22 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/4/22", 599]
+    },
+    {
+      "name": "Fri Apr 23 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/4/23", 590]
+    },
+    {
+      "name": "Sat Apr 24 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/4/24", 595]
+    },
+    {
+      "name": "Sun Apr 25 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/4/25", 603]
+    },
+    {
+      "name": "Mon Apr 26 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/4/26", 594]
+    },
+    {
+      "name": "Tue Apr 27 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/4/27", 599]
+    },
+    {
+      "name": "Wed Apr 28 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/4/28", 605]
+    },
+    {
+      "name": "Thu Apr 29 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/4/29", 612]
+    },
+    {
+      "name": "Fri Apr 30 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/4/30", 604]
+    },
+    {
+      "name": "Sat May 01 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/5/1", 606]
+    },
+    {
+      "name": "Sun May 02 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/5/2", 615]
+    },
+    {
+      "name": "Mon May 03 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/5/3", 619]
+    },
+    {
+      "name": "Tue May 04 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/5/4", 610]
+    },
+    {
+      "name": "Wed May 05 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/5/5", 621]
+    },
+    {
+      "name": "Thu May 06 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/5/6", 626]
+    },
+    {
+      "name": "Fri May 07 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/5/7", 618]
+    },
+    {
+      "name": "Sat May 08 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/5/8", 612]
+    },
+    {
+      "name": "Sun May 09 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/5/9", 610]
+    },
+    {
+      "name": "Mon May 10 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/5/10", 611]
+    },
+    {
+      "name": "Tue May 11 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/5/11", 611]
+    },
+    {
+      "name": "Wed May 12 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/5/12", 611]
+    },
+    {
+      "name": "Thu May 13 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/5/13", 612]
+    },
+    {
+      "name": "Fri May 14 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/5/14", 614]
+    },
+    {
+      "name": "Sat May 15 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/5/15", 616]
+    },
+    {
+      "name": "Sun May 16 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/5/16", 610]
+    },
+    {
+      "name": "Mon May 17 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/5/17", 621]
+    },
+    {
+      "name": "Tue May 18 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/5/18", 626]
+    },
+    {
+      "name": "Wed May 19 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/5/19", 628]
+    },
+    {
+      "name": "Thu May 20 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/5/20", 619]
+    },
+    {
+      "name": "Fri May 21 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/5/21", 627]
+    },
+    {
+      "name": "Sat May 22 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/5/22", 621]
+    },
+    {
+      "name": "Sun May 23 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/5/23", 623]
+    },
+    {
+      "name": "Mon May 24 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/5/24", 625]
+    },
+    {
+      "name": "Tue May 25 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/5/25", 623]
+    },
+    {
+      "name": "Wed May 26 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/5/26", 629]
+    },
+    {
+      "name": "Thu May 27 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/5/27", 629]
+    },
+    {
+      "name": "Fri May 28 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/5/28", 628]
+    },
+    {
+      "name": "Sat May 29 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/5/29", 623]
+    },
+    {
+      "name": "Sun May 30 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/5/30", 629]
+    },
+    {
+      "name": "Mon May 31 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/5/31", 625]
+    },
+    {
+      "name": "Tue Jun 01 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/6/1", 634]
+    },
+    {
+      "name": "Wed Jun 02 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/6/2", 634]
+    },
+    {
+      "name": "Thu Jun 03 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/6/3", 638]
+    },
+    {
+      "name": "Fri Jun 04 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/6/4", 643]
+    },
+    {
+      "name": "Sat Jun 05 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/6/5", 652]
+    },
+    {
+      "name": "Sun Jun 06 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/6/6", 650]
+    },
+    {
+      "name": "Mon Jun 07 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/6/7", 646]
+    },
+    {
+      "name": "Tue Jun 08 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/6/8", 651]
+    },
+    {
+      "name": "Wed Jun 09 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/6/9", 641]
+    },
+    {
+      "name": "Thu Jun 10 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/6/10", 649]
+    },
+    {
+      "name": "Fri Jun 11 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/6/11", 645]
+    },
+    {
+      "name": "Sat Jun 12 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/6/12", 637]
+    },
+    {
+      "name": "Sun Jun 13 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/6/13", 646]
+    },
+    {
+      "name": "Mon Jun 14 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/6/14", 656]
+    },
+    {
+      "name": "Tue Jun 15 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/6/15", 656]
+    },
+    {
+      "name": "Wed Jun 16 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/6/16", 661]
+    },
+    {
+      "name": "Thu Jun 17 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/6/17", 658]
+    },
+    {
+      "name": "Fri Jun 18 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/6/18", 648]
+    },
+    {
+      "name": "Sat Jun 19 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/6/19", 642]
+    },
+    {
+      "name": "Sun Jun 20 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/6/20", 635]
+    },
+    {
+      "name": "Mon Jun 21 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/6/21", 627]
+    },
+    {
+      "name": "Tue Jun 22 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/6/22", 626]
+    },
+    {
+      "name": "Wed Jun 23 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/6/23", 635]
+    },
+    {
+      "name": "Thu Jun 24 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/6/24", 636]
+    },
+    {
+      "name": "Fri Jun 25 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/6/25", 638]
+    },
+    {
+      "name": "Sat Jun 26 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/6/26", 630]
+    },
+    {
+      "name": "Sun Jun 27 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/6/27", 637]
+    },
+    {
+      "name": "Mon Jun 28 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/6/28", 640]
+    },
+    {
+      "name": "Tue Jun 29 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/6/29", 642]
+    },
+    {
+      "name": "Wed Jun 30 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/6/30", 634]
+    },
+    {
+      "name": "Thu Jul 01 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/7/1", 631]
+    },
+    {
+      "name": "Fri Jul 02 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/7/2", 628]
+    },
+    {
+      "name": "Sat Jul 03 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/7/3", 634]
+    },
+    {
+      "name": "Sun Jul 04 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/7/4", 640]
+    },
+    {
+      "name": "Mon Jul 05 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/7/5", 631]
+    },
+    {
+      "name": "Tue Jul 06 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/7/6", 626]
+    },
+    {
+      "name": "Wed Jul 07 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/7/7", 618]
+    },
+    {
+      "name": "Thu Jul 08 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/7/8", 624]
+    },
+    {
+      "name": "Fri Jul 09 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/7/9", 615]
+    },
+    {
+      "name": "Sat Jul 10 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/7/10", 623]
+    },
+    {
+      "name": "Sun Jul 11 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/7/11", 632]
+    },
+    {
+      "name": "Mon Jul 12 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/7/12", 633]
+    },
+    {
+      "name": "Tue Jul 13 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/7/13", 623]
+    },
+    {
+      "name": "Wed Jul 14 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/7/14", 615]
+    },
+    {
+      "name": "Thu Jul 15 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/7/15", 617]
+    },
+    {
+      "name": "Fri Jul 16 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/7/16", 619]
+    },
+    {
+      "name": "Sat Jul 17 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/7/17", 623]
+    },
+    {
+      "name": "Sun Jul 18 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/7/18", 613]
+    },
+    {
+      "name": "Mon Jul 19 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/7/19", 608]
+    },
+    {
+      "name": "Tue Jul 20 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/7/20", 604]
+    },
+    {
+      "name": "Wed Jul 21 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/7/21", 609]
+    },
+    {
+      "name": "Thu Jul 22 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/7/22", 613]
+    },
+    {
+      "name": "Fri Jul 23 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/7/23", 618]
+    },
+    {
+      "name": "Sat Jul 24 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/7/24", 609]
+    },
+    {
+      "name": "Sun Jul 25 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/7/25", 602]
+    },
+    {
+      "name": "Mon Jul 26 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/7/26", 609]
+    },
+    {
+      "name": "Tue Jul 27 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/7/27", 611]
+    },
+    {
+      "name": "Wed Jul 28 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/7/28", 612]
+    },
+    {
+      "name": "Thu Jul 29 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/7/29", 619]
+    },
+    {
+      "name": "Fri Jul 30 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/7/30", 626]
+    },
+    {
+      "name": "Sat Jul 31 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/7/31", 620]
+    },
+    {
+      "name": "Sun Aug 01 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/8/1", 627]
+    },
+    {
+      "name": "Mon Aug 02 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/8/2", 638]
+    },
+    {
+      "name": "Tue Aug 03 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/8/3", 640]
+    },
+    {
+      "name": "Wed Aug 04 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/8/4", 648]
+    },
+    {
+      "name": "Thu Aug 05 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/8/5", 639]
+    },
+    {
+      "name": "Fri Aug 06 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/8/6", 641]
+    },
+    {
+      "name": "Sat Aug 07 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/8/7", 644]
+    },
+    {
+      "name": "Sun Aug 08 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/8/8", 638]
+    },
+    {
+      "name": "Mon Aug 09 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/8/9", 634]
+    },
+    {
+      "name": "Tue Aug 10 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/8/10", 628]
+    },
+    {
+      "name": "Wed Aug 11 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/8/11", 638]
+    },
+    {
+      "name": "Thu Aug 12 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/8/12", 630]
+    },
+    {
+      "name": "Fri Aug 13 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/8/13", 621]
+    },
+    {
+      "name": "Sat Aug 14 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/8/14", 618]
+    },
+    {
+      "name": "Sun Aug 15 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/8/15", 622]
+    },
+    {
+      "name": "Mon Aug 16 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/8/16", 626]
+    },
+    {
+      "name": "Tue Aug 17 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/8/17", 627]
+    },
+    {
+      "name": "Wed Aug 18 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/8/18", 623]
+    },
+    {
+      "name": "Thu Aug 19 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/8/19", 615]
+    },
+    {
+      "name": "Fri Aug 20 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/8/20", 615]
+    },
+    {
+      "name": "Sat Aug 21 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/8/21", 618]
+    },
+    {
+      "name": "Sun Aug 22 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/8/22", 610]
+    },
+    {
+      "name": "Mon Aug 23 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/8/23", 619]
+    },
+    {
+      "name": "Tue Aug 24 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/8/24", 613]
+    },
+    {
+      "name": "Wed Aug 25 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/8/25", 605]
+    },
+    {
+      "name": "Thu Aug 26 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/8/26", 615]
+    },
+    {
+      "name": "Fri Aug 27 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/8/27", 623]
+    },
+    {
+      "name": "Sat Aug 28 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/8/28", 620]
+    },
+    {
+      "name": "Sun Aug 29 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/8/29", 612]
+    },
+    {
+      "name": "Mon Aug 30 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/8/30", 613]
+    },
+    {
+      "name": "Tue Aug 31 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/8/31", 615]
+    },
+    {
+      "name": "Wed Sep 01 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/9/1", 618]
+    },
+    {
+      "name": "Thu Sep 02 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/9/2", 625]
+    },
+    {
+      "name": "Fri Sep 03 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/9/3", 625]
+    },
+    {
+      "name": "Sat Sep 04 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/9/4", 632]
+    },
+    {
+      "name": "Sun Sep 05 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/9/5", 628]
+    },
+    {
+      "name": "Mon Sep 06 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/9/6", 629]
+    },
+    {
+      "name": "Tue Sep 07 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/9/7", 636]
+    },
+    {
+      "name": "Wed Sep 08 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/9/8", 642]
+    },
+    {
+      "name": "Thu Sep 09 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/9/9", 639]
+    },
+    {
+      "name": "Fri Sep 10 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/9/10", 639]
+    },
+    {
+      "name": "Sat Sep 11 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/9/11", 650]
+    },
+    {
+      "name": "Sun Sep 12 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/9/12", 649]
+    },
+    {
+      "name": "Mon Sep 13 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/9/13", 645]
+    },
+    {
+      "name": "Tue Sep 14 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/9/14", 654]
+    },
+    {
+      "name": "Wed Sep 15 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/9/15", 652]
+    },
+    {
+      "name": "Thu Sep 16 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/9/16", 657]
+    },
+    {
+      "name": "Fri Sep 17 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/9/17", 653]
+    },
+    {
+      "name": "Sat Sep 18 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/9/18", 658]
+    },
+    {
+      "name": "Sun Sep 19 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/9/19", 649]
+    },
+    {
+      "name": "Mon Sep 20 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/9/20", 639]
+    },
+    {
+      "name": "Tue Sep 21 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/9/21", 648]
+    },
+    {
+      "name": "Wed Sep 22 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/9/22", 648]
+    },
+    {
+      "name": "Thu Sep 23 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/9/23", 642]
+    },
+    {
+      "name": "Fri Sep 24 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/9/24", 647]
+    },
+    {
+      "name": "Sat Sep 25 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/9/25", 654]
+    },
+    {
+      "name": "Sun Sep 26 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/9/26", 651]
+    },
+    {
+      "name": "Mon Sep 27 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/9/27", 649]
+    },
+    {
+      "name": "Tue Sep 28 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/9/28", 657]
+    },
+    {
+      "name": "Wed Sep 29 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/9/29", 668]
+    },
+    {
+      "name": "Thu Sep 30 1999 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["1999/9/30", 665]
+    },
+    {
+      "name": "Fri Oct 01 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/10/1", 665]
+    },
+    {
+      "name": "Sat Oct 02 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/10/2", 666]
+    },
+    {
+      "name": "Sun Oct 03 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/10/3", 669]
+    },
+    {
+      "name": "Mon Oct 04 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/10/4", 664]
+    },
+    {
+      "name": "Tue Oct 05 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/10/5", 675]
+    },
+    {
+      "name": "Wed Oct 06 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/10/6", 669]
+    },
+    {
+      "name": "Thu Oct 07 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/10/7", 678]
+    },
+    {
+      "name": "Fri Oct 08 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/10/8", 679]
+    },
+    {
+      "name": "Sat Oct 09 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/10/9", 682]
+    },
+    {
+      "name": "Sun Oct 10 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/10/10", 686]
+    },
+    {
+      "name": "Mon Oct 11 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/10/11", 689]
+    },
+    {
+      "name": "Tue Oct 12 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/10/12", 695]
+    },
+    {
+      "name": "Wed Oct 13 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/10/13", 704]
+    },
+    {
+      "name": "Thu Oct 14 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/10/14", 707]
+    },
+    {
+      "name": "Fri Oct 15 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/10/15", 718]
+    },
+    {
+      "name": "Sat Oct 16 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/10/16", 712]
+    },
+    {
+      "name": "Sun Oct 17 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/10/17", 717]
+    },
+    {
+      "name": "Mon Oct 18 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/10/18", 714]
+    },
+    {
+      "name": "Tue Oct 19 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/10/19", 725]
+    },
+    {
+      "name": "Wed Oct 20 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/10/20", 719]
+    },
+    {
+      "name": "Thu Oct 21 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/10/21", 715]
+    },
+    {
+      "name": "Fri Oct 22 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/10/22", 714]
+    },
+    {
+      "name": "Sat Oct 23 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/10/23", 708]
+    },
+    {
+      "name": "Sun Oct 24 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/10/24", 703]
+    },
+    {
+      "name": "Mon Oct 25 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/10/25", 708]
+    },
+    {
+      "name": "Tue Oct 26 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/10/26", 712]
+    },
+    {
+      "name": "Wed Oct 27 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/10/27", 710]
+    },
+    {
+      "name": "Thu Oct 28 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/10/28", 700]
+    },
+    {
+      "name": "Fri Oct 29 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/10/29", 694]
+    },
+    {
+      "name": "Sat Oct 30 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/10/30", 694]
+    },
+    {
+      "name": "Sun Oct 31 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/10/31", 698]
+    },
+    {
+      "name": "Mon Nov 01 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/11/1", 704]
+    },
+    {
+      "name": "Tue Nov 02 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/11/2", 704]
+    },
+    {
+      "name": "Wed Nov 03 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/11/3", 708]
+    },
+    {
+      "name": "Thu Nov 04 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/11/4", 703]
+    },
+    {
+      "name": "Fri Nov 05 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/11/5", 701]
+    },
+    {
+      "name": "Sat Nov 06 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/11/6", 698]
+    },
+    {
+      "name": "Sun Nov 07 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/11/7", 709]
+    },
+    {
+      "name": "Mon Nov 08 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/11/8", 700]
+    },
+    {
+      "name": "Tue Nov 09 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/11/9", 701]
+    },
+    {
+      "name": "Wed Nov 10 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/11/10", 702]
+    },
+    {
+      "name": "Thu Nov 11 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/11/11", 705]
+    },
+    {
+      "name": "Fri Nov 12 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/11/12", 715]
+    },
+    {
+      "name": "Sat Nov 13 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/11/13", 707]
+    },
+    {
+      "name": "Sun Nov 14 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/11/14", 706]
+    },
+    {
+      "name": "Mon Nov 15 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/11/15", 697]
+    },
+    {
+      "name": "Tue Nov 16 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/11/16", 696]
+    },
+    {
+      "name": "Wed Nov 17 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/11/17", 697]
+    },
+    {
+      "name": "Thu Nov 18 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/11/18", 691]
+    },
+    {
+      "name": "Fri Nov 19 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/11/19", 688]
+    },
+    {
+      "name": "Sat Nov 20 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/11/20", 680]
+    },
+    {
+      "name": "Sun Nov 21 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/11/21", 675]
+    },
+    {
+      "name": "Mon Nov 22 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/11/22", 674]
+    },
+    {
+      "name": "Tue Nov 23 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/11/23", 665]
+    },
+    {
+      "name": "Wed Nov 24 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/11/24", 666]
+    },
+    {
+      "name": "Thu Nov 25 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/11/25", 657]
+    },
+    {
+      "name": "Fri Nov 26 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/11/26", 648]
+    },
+    {
+      "name": "Sat Nov 27 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/11/27", 648]
+    },
+    {
+      "name": "Sun Nov 28 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/11/28", 638]
+    },
+    {
+      "name": "Mon Nov 29 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/11/29", 641]
+    },
+    {
+      "name": "Tue Nov 30 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/11/30", 642]
+    },
+    {
+      "name": "Wed Dec 01 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/12/1", 642]
+    },
+    {
+      "name": "Thu Dec 02 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/12/2", 642]
+    },
+    {
+      "name": "Fri Dec 03 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/12/3", 641]
+    },
+    {
+      "name": "Sat Dec 04 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/12/4", 652]
+    },
+    {
+      "name": "Sun Dec 05 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/12/5", 647]
+    },
+    {
+      "name": "Mon Dec 06 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/12/6", 656]
+    },
+    {
+      "name": "Tue Dec 07 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/12/7", 651]
+    },
+    {
+      "name": "Wed Dec 08 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/12/8", 646]
+    },
+    {
+      "name": "Thu Dec 09 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/12/9", 643]
+    },
+    {
+      "name": "Fri Dec 10 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/12/10", 634]
+    },
+    {
+      "name": "Sat Dec 11 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/12/11", 637]
+    },
+    {
+      "name": "Sun Dec 12 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/12/12", 638]
+    },
+    {
+      "name": "Mon Dec 13 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/12/13", 639]
+    },
+    {
+      "name": "Tue Dec 14 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/12/14", 629]
+    },
+    {
+      "name": "Wed Dec 15 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/12/15", 635]
+    },
+    {
+      "name": "Thu Dec 16 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/12/16", 630]
+    },
+    {
+      "name": "Fri Dec 17 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/12/17", 633]
+    },
+    {
+      "name": "Sat Dec 18 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/12/18", 634]
+    },
+    {
+      "name": "Sun Dec 19 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/12/19", 634]
+    },
+    {
+      "name": "Mon Dec 20 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/12/20", 632]
+    },
+    {
+      "name": "Tue Dec 21 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/12/21", 635]
+    },
+    {
+      "name": "Wed Dec 22 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/12/22", 628]
+    },
+    {
+      "name": "Thu Dec 23 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/12/23", 621]
+    },
+    {
+      "name": "Fri Dec 24 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/12/24", 629]
+    },
+    {
+      "name": "Sat Dec 25 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/12/25", 625]
+    },
+    {
+      "name": "Sun Dec 26 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/12/26", 620]
+    },
+    {
+      "name": "Mon Dec 27 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/12/27", 612]
+    },
+    {
+      "name": "Tue Dec 28 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/12/28", 603]
+    },
+    {
+      "name": "Wed Dec 29 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/12/29", 611]
+    },
+    {
+      "name": "Thu Dec 30 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/12/30", 608]
+    },
+    {
+      "name": "Fri Dec 31 1999 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["1999/12/31", 616]
+    },
+    {
+      "name": "Sat Jan 01 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/1/1", 620]
+    },
+    {
+      "name": "Sun Jan 02 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/1/2", 613]
+    },
+    {
+      "name": "Mon Jan 03 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/1/3", 613]
+    },
+    {
+      "name": "Tue Jan 04 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/1/4", 607]
+    },
+    {
+      "name": "Wed Jan 05 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/1/5", 604]
+    },
+    {
+      "name": "Thu Jan 06 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/1/6", 600]
+    },
+    {
+      "name": "Fri Jan 07 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/1/7", 596]
+    },
+    {
+      "name": "Sat Jan 08 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/1/8", 598]
+    },
+    {
+      "name": "Sun Jan 09 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/1/9", 601]
+    },
+    {
+      "name": "Mon Jan 10 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/1/10", 612]
+    },
+    {
+      "name": "Tue Jan 11 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/1/11", 609]
+    },
+    {
+      "name": "Wed Jan 12 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/1/12", 609]
+    },
+    {
+      "name": "Thu Jan 13 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/1/13", 609]
+    },
+    {
+      "name": "Fri Jan 14 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/1/14", 616]
+    },
+    {
+      "name": "Sat Jan 15 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/1/15", 621]
+    },
+    {
+      "name": "Sun Jan 16 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/1/16", 624]
+    },
+    {
+      "name": "Mon Jan 17 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/1/17", 631]
+    },
+    {
+      "name": "Tue Jan 18 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/1/18", 641]
+    },
+    {
+      "name": "Wed Jan 19 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/1/19", 644]
+    },
+    {
+      "name": "Thu Jan 20 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/1/20", 654]
+    },
+    {
+      "name": "Fri Jan 21 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/1/21", 661]
+    },
+    {
+      "name": "Sat Jan 22 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/1/22", 670]
+    },
+    {
+      "name": "Sun Jan 23 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/1/23", 673]
+    },
+    {
+      "name": "Mon Jan 24 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/1/24", 673]
+    },
+    {
+      "name": "Tue Jan 25 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/1/25", 674]
+    },
+    {
+      "name": "Wed Jan 26 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/1/26", 669]
+    },
+    {
+      "name": "Thu Jan 27 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/1/27", 667]
+    },
+    {
+      "name": "Fri Jan 28 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/1/28", 663]
+    },
+    {
+      "name": "Sat Jan 29 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/1/29", 670]
+    },
+    {
+      "name": "Sun Jan 30 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/1/30", 662]
+    },
+    {
+      "name": "Mon Jan 31 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/1/31", 663]
+    },
+    {
+      "name": "Tue Feb 01 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/2/1", 663]
+    },
+    {
+      "name": "Wed Feb 02 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/2/2", 653]
+    },
+    {
+      "name": "Thu Feb 03 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/2/3", 646]
+    },
+    {
+      "name": "Fri Feb 04 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/2/4", 646]
+    },
+    {
+      "name": "Sat Feb 05 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/2/5", 642]
+    },
+    {
+      "name": "Sun Feb 06 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/2/6", 650]
+    },
+    {
+      "name": "Mon Feb 07 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/2/7", 648]
+    },
+    {
+      "name": "Tue Feb 08 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/2/8", 646]
+    },
+    {
+      "name": "Wed Feb 09 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/2/9", 650]
+    },
+    {
+      "name": "Thu Feb 10 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/2/10", 651]
+    },
+    {
+      "name": "Fri Feb 11 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/2/11", 652]
+    },
+    {
+      "name": "Sat Feb 12 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/2/12", 658]
+    },
+    {
+      "name": "Sun Feb 13 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/2/13", 651]
+    },
+    {
+      "name": "Mon Feb 14 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/2/14", 653]
+    },
+    {
+      "name": "Tue Feb 15 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/2/15", 663]
+    },
+    {
+      "name": "Wed Feb 16 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/2/16", 673]
+    },
+    {
+      "name": "Thu Feb 17 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/2/17", 673]
+    },
+    {
+      "name": "Fri Feb 18 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/2/18", 680]
+    },
+    {
+      "name": "Sat Feb 19 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/2/19", 674]
+    },
+    {
+      "name": "Sun Feb 20 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/2/20", 683]
+    },
+    {
+      "name": "Mon Feb 21 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/2/21", 676]
+    },
+    {
+      "name": "Tue Feb 22 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/2/22", 673]
+    },
+    {
+      "name": "Wed Feb 23 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/2/23", 668]
+    },
+    {
+      "name": "Thu Feb 24 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/2/24", 678]
+    },
+    {
+      "name": "Fri Feb 25 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/2/25", 683]
+    },
+    {
+      "name": "Sat Feb 26 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/2/26", 689]
+    },
+    {
+      "name": "Sun Feb 27 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/2/27", 680]
+    },
+    {
+      "name": "Mon Feb 28 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/2/28", 681]
+    },
+    {
+      "name": "Tue Feb 29 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/2/29", 675]
+    },
+    {
+      "name": "Wed Mar 01 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/3/1", 685]
+    },
+    {
+      "name": "Thu Mar 02 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/3/2", 695]
+    },
+    {
+      "name": "Fri Mar 03 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/3/3", 703]
+    },
+    {
+      "name": "Sat Mar 04 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/3/4", 702]
+    },
+    {
+      "name": "Sun Mar 05 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/3/5", 698]
+    },
+    {
+      "name": "Mon Mar 06 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/3/6", 700]
+    },
+    {
+      "name": "Tue Mar 07 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/3/7", 705]
+    },
+    {
+      "name": "Wed Mar 08 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/3/8", 703]
+    },
+    {
+      "name": "Thu Mar 09 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/3/9", 704]
+    },
+    {
+      "name": "Fri Mar 10 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/3/10", 715]
+    },
+    {
+      "name": "Sat Mar 11 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/3/11", 708]
+    },
+    {
+      "name": "Sun Mar 12 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/3/12", 708]
+    },
+    {
+      "name": "Mon Mar 13 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/3/13", 699]
+    },
+    {
+      "name": "Tue Mar 14 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/3/14", 707]
+    },
+    {
+      "name": "Wed Mar 15 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/3/15", 699]
+    },
+    {
+      "name": "Thu Mar 16 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/3/16", 692]
+    },
+    {
+      "name": "Fri Mar 17 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/3/17", 686]
+    },
+    {
+      "name": "Sat Mar 18 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/3/18", 687]
+    },
+    {
+      "name": "Sun Mar 19 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/3/19", 688]
+    },
+    {
+      "name": "Mon Mar 20 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/3/20", 698]
+    },
+    {
+      "name": "Tue Mar 21 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/3/21", 695]
+    },
+    {
+      "name": "Wed Mar 22 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/3/22", 703]
+    },
+    {
+      "name": "Thu Mar 23 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/3/23", 697]
+    },
+    {
+      "name": "Fri Mar 24 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/3/24", 690]
+    },
+    {
+      "name": "Sat Mar 25 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/3/25", 698]
+    },
+    {
+      "name": "Sun Mar 26 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/3/26", 698]
+    },
+    {
+      "name": "Mon Mar 27 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/3/27", 704]
+    },
+    {
+      "name": "Tue Mar 28 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/3/28", 709]
+    },
+    {
+      "name": "Wed Mar 29 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/3/29", 700]
+    },
+    {
+      "name": "Thu Mar 30 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/3/30", 707]
+    },
+    {
+      "name": "Fri Mar 31 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/3/31", 702]
+    },
+    {
+      "name": "Sat Apr 01 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/4/1", 698]
+    },
+    {
+      "name": "Sun Apr 02 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/4/2", 697]
+    },
+    {
+      "name": "Mon Apr 03 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/4/3", 708]
+    },
+    {
+      "name": "Tue Apr 04 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/4/4", 706]
+    },
+    {
+      "name": "Wed Apr 05 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/4/5", 697]
+    },
+    {
+      "name": "Thu Apr 06 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/4/6", 701]
+    },
+    {
+      "name": "Fri Apr 07 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/4/7", 705]
+    },
+    {
+      "name": "Sat Apr 08 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/4/8", 713]
+    },
+    {
+      "name": "Sun Apr 09 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/4/9", 716]
+    },
+    {
+      "name": "Mon Apr 10 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/4/10", 721]
+    },
+    {
+      "name": "Tue Apr 11 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/4/11", 731]
+    },
+    {
+      "name": "Wed Apr 12 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/4/12", 730]
+    },
+    {
+      "name": "Thu Apr 13 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/4/13", 736]
+    },
+    {
+      "name": "Fri Apr 14 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/4/14", 726]
+    },
+    {
+      "name": "Sat Apr 15 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/4/15", 733]
+    },
+    {
+      "name": "Sun Apr 16 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/4/16", 729]
+    },
+    {
+      "name": "Mon Apr 17 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/4/17", 731]
+    },
+    {
+      "name": "Tue Apr 18 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/4/18", 721]
+    },
+    {
+      "name": "Wed Apr 19 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/4/19", 719]
+    },
+    {
+      "name": "Thu Apr 20 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/4/20", 710]
+    },
+    {
+      "name": "Fri Apr 21 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/4/21", 709]
+    },
+    {
+      "name": "Sat Apr 22 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/4/22", 709]
+    },
+    {
+      "name": "Sun Apr 23 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/4/23", 711]
+    },
+    {
+      "name": "Mon Apr 24 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/4/24", 720]
+    },
+    {
+      "name": "Tue Apr 25 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/4/25", 715]
+    },
+    {
+      "name": "Wed Apr 26 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/4/26", 715]
+    },
+    {
+      "name": "Thu Apr 27 2000 00:00:00 GMT+0200 (Eastern European Standard Time)",
+      "value": ["2000/4/27", 719]
+    },
+    {
+      "name": "Fri Apr 28 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/4/28", 711]
+    },
+    {
+      "name": "Sat Apr 29 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/4/29", 704]
+    },
+    {
+      "name": "Sun Apr 30 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/4/30", 700]
+    },
+    {
+      "name": "Mon May 01 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/5/1", 691]
+    },
+    {
+      "name": "Tue May 02 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/5/2", 691]
+    },
+    {
+      "name": "Wed May 03 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/5/3", 682]
+    },
+    {
+      "name": "Thu May 04 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/5/4", 687]
+    },
+    {
+      "name": "Fri May 05 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/5/5", 688]
+    },
+    {
+      "name": "Sat May 06 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/5/6", 678]
+    },
+    {
+      "name": "Sun May 07 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/5/7", 685]
+    },
+    {
+      "name": "Mon May 08 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/5/8", 693]
+    },
+    {
+      "name": "Tue May 09 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/5/9", 689]
+    },
+    {
+      "name": "Wed May 10 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/5/10", 691]
+    },
+    {
+      "name": "Thu May 11 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/5/11", 700]
+    },
+    {
+      "name": "Fri May 12 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/5/12", 691]
+    },
+    {
+      "name": "Sat May 13 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/5/13", 700]
+    },
+    {
+      "name": "Sun May 14 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/5/14", 696]
+    },
+    {
+      "name": "Mon May 15 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/5/15", 688]
+    },
+    {
+      "name": "Tue May 16 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/5/16", 684]
+    },
+    {
+      "name": "Wed May 17 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/5/17", 678]
+    },
+    {
+      "name": "Thu May 18 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/5/18", 672]
+    },
+    {
+      "name": "Fri May 19 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/5/19", 678]
+    },
+    {
+      "name": "Sat May 20 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/5/20", 684]
+    },
+    {
+      "name": "Sun May 21 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/5/21", 688]
+    },
+    {
+      "name": "Mon May 22 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/5/22", 692]
+    },
+    {
+      "name": "Tue May 23 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/5/23", 693]
+    },
+    {
+      "name": "Wed May 24 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/5/24", 691]
+    },
+    {
+      "name": "Thu May 25 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/5/25", 697]
+    },
+    {
+      "name": "Fri May 26 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/5/26", 698]
+    },
+    {
+      "name": "Sat May 27 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/5/27", 699]
+    },
+    {
+      "name": "Sun May 28 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/5/28", 703]
+    },
+    {
+      "name": "Mon May 29 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/5/29", 699]
+    },
+    {
+      "name": "Tue May 30 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/5/30", 692]
+    },
+    {
+      "name": "Wed May 31 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/5/31", 686]
+    },
+    {
+      "name": "Thu Jun 01 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/6/1", 686]
+    },
+    {
+      "name": "Fri Jun 02 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/6/2", 687]
+    },
+    {
+      "name": "Sat Jun 03 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/6/3", 691]
+    },
+    {
+      "name": "Sun Jun 04 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/6/4", 698]
+    },
+    {
+      "name": "Mon Jun 05 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/6/5", 691]
+    },
+    {
+      "name": "Tue Jun 06 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/6/6", 685]
+    },
+    {
+      "name": "Wed Jun 07 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/6/7", 686]
+    },
+    {
+      "name": "Thu Jun 08 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/6/8", 677]
+    },
+    {
+      "name": "Fri Jun 09 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/6/9", 681]
+    },
+    {
+      "name": "Sat Jun 10 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/6/10", 671]
+    },
+    {
+      "name": "Sun Jun 11 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/6/11", 681]
+    },
+    {
+      "name": "Mon Jun 12 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/6/12", 675]
+    },
+    {
+      "name": "Tue Jun 13 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/6/13", 679]
+    },
+    {
+      "name": "Wed Jun 14 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/6/14", 671]
+    },
+    {
+      "name": "Thu Jun 15 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/6/15", 675]
+    },
+    {
+      "name": "Fri Jun 16 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/6/16", 673]
+    },
+    {
+      "name": "Sat Jun 17 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/6/17", 674]
+    },
+    {
+      "name": "Sun Jun 18 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/6/18", 677]
+    },
+    {
+      "name": "Mon Jun 19 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/6/19", 685]
+    },
+    {
+      "name": "Tue Jun 20 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/6/20", 688]
+    },
+    {
+      "name": "Wed Jun 21 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/6/21", 681]
+    },
+    {
+      "name": "Thu Jun 22 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/6/22", 689]
+    },
+    {
+      "name": "Fri Jun 23 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/6/23", 691]
+    },
+    {
+      "name": "Sat Jun 24 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/6/24", 700]
+    },
+    {
+      "name": "Sun Jun 25 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/6/25", 692]
+    },
+    {
+      "name": "Mon Jun 26 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/6/26", 687]
+    },
+    {
+      "name": "Tue Jun 27 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/6/27", 685]
+    },
+    {
+      "name": "Wed Jun 28 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/6/28", 692]
+    },
+    {
+      "name": "Thu Jun 29 2000 01:00:00 GMT+0300 (Eastern European Summer Time)",
+      "value": ["2000/6/29", 694]
+    }
+  ]
+}
